@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Muhammad Afzal (Balghari)
 
-<!--
-**afzalbalghari/afzalbalghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Web Developer | Frontend & Backend  
+🎥 Content Creator at **codeWithBalghari**  
+🌱 Currently learning advanced JavaScript & Node.js  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript  
+- React, Next.js, Node.js  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Build web projects
+- Share coding tutorials
+- Learn & grow every day
+
+📺 YouTube: codeWithBalghari  
+📍 Pakistan
