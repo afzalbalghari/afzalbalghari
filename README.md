@@ -27,17 +27,17 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 
 - 💼 GitHub: https://github.com/afzalbalghari  
 - 🎥 YouTube: https://youtube.com/@CodeWithBalghari  
-- 📧 Email: your-mafzalbalghari101@gmail.com  
+- 📧 Email: mafzalbalghari101@gmail.com  
 
 ---
 
