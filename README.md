@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 💻 **Web Developer** (Frontend & Backend)
-- ⚛️ Strong focus on **JavaScript, React & Next.js**
+- ⚛️ Strong focus on **JavaScript, React, Next.js, Node.js, Express.js & MongoDB**
 - 🎥 **YouTube Content Creator** – *codeWithBalghari*
 - 🌱 Always learning & improving
 - 📍 Based in **Pakistan**
@@ -71,7 +71,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/afzalbalghari  
+- 💼 Linkedin: https://www.linkedin.com/in/muhammad-afzal-balghari-733566348/  
 - 🎥 YouTube: https://youtube.com/@CodeWithBalghari  
 - 📧 Email: mafzalbalghari101@gmail.com  
 
@@ -79,7 +79,7 @@
 
 ## 🎯 Career Goals
 
-- Become a strong **Full-Stack Developer**
+- Become a strong **DevOps Engineer**
 - Work on real-world scalable projects
 - Help beginners learn web development
 - Build a strong open-source profile
